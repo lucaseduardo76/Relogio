@@ -42,17 +42,17 @@ h1 {
     display: flex;
     justify-content: flex-end;
     
+    
 }
 .risco .ponto {
     width: 15px;
     height: 100%;
     background-color: #FFF;
-    
 }
 .risco .b{
     width: 7px;
     height: 50%;
-    background-color: rgb(97, 95, 95);
+    background-color: rgb(97, 95, 95);    
 }
 
 .ponteiros {
